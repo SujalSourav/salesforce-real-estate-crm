@@ -1,5 +1,5 @@
-# 🏷 Project Title
-**SmartProperty CRM – Real Estate Engagement & Lead Conversion System**
+# 🚀 **SmartProperty CRM**
+### 🏡 Real Estate Engagement & Lead Conversion System
 
 ---
 
@@ -88,3 +88,4 @@ Currently, many companies manage these inquiries manually using emails and Excel
 - Current vs Salesforce process mapped  
 - Real estate use cases defined  
 - Optional apps explored  
+
