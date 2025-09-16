@@ -1,2 +1,6 @@
-<img width="1919" height="571" alt="image" src="https://github.com/user-attachments/assets/ddfaf136-ef93-44ab-b545-877d4afe52f6" />
+# 📘 Phase 2: Proof of Work Screenshots
 
+<object data="Phase2_Screenshots.pdf" type="application/pdf" width="100%" height="900px">
+    <p>It looks like your browser doesn’t support embedded PDFs.  
+    You can still <a href="Phase2_Screenshots.pdf">click here to view the PDF</a>.</p>
+</object>
